@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+api/api/__pycache__
+api/core/__pycache__
